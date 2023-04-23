@@ -7,5 +7,4 @@ function foo () {
 jQuery('dwada')
 
 const a = 10
-
-3333221112221111
+console.log(a, foo())
