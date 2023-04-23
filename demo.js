@@ -1,6 +1,6 @@
-// function foo () {
-//   console.log('dawdwa')
-// }
+function foo () {
+  console.log('dawdwa')
+}
 
 // document.getElementById('aa')
 // alert('ddw')
